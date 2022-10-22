@@ -3,8 +3,6 @@
     "next", 
     "next/core-web-vitals", 
     "eslint:recommended"
-    // "next/babel",
-    // "next/core-web-vitals"
   ],
   "globals": {
     "React": "readonly"
